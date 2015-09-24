@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = 'AsyncDisplayKit'
-  spec.version      = '1.2.2'
+  spec.version      = :head
   spec.license      =  { :type => 'BSD' }
   spec.homepage     = 'http://asyncdisplaykit.org'
   spec.authors      = { 'Scott Goodson' => 'scottgoodson@gmail.com', 'Ryan Nystrom' => 'rnystrom@fb.com' }
